@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-![Alberto's github stats](https://github-readme-stats.vercel.app/api?username=manhleodz&show_icons=true&theme=vue-dark)
+[![manhleodz's GitHub stats](https://github-readme-stats.vercel.app/api?username=manhleodz)](https://github.com/manhleodz/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manhleodz&layout=compact&theme=radical) 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manhleodz)](https://github.com/manhleodz/github-readme-stats)
 <!--
 **manhleodz/manhleodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
