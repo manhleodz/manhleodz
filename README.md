@@ -1,18 +1,28 @@
-### Hi there 👋
+### Hi there, I'm Doan Duc Manh 👋
 
-[![manhleodz's GitHub stats](https://github-readme-stats.vercel.app/api?username=manhleodz)](https://github.com/manhleodz/github-readme-stats)
+**Software | Student at Hanoi University of Science**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manhleodz)](https://github.com/manhleodz/github-readme-stats)
-<!--
-**manhleodz/manhleodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I am a passionate engineer specializing in Backend Architecture and AI Integration. I love building scalable systems and applying NLP/LLMs to solve real-world problems. 
 
-Here are some ideas to get you started:
+#### 🚀 About Me
+- 🔭 I’m currently working as a Software Engineer at AimeSoft.
+- 🎓 I am studying Mathematics and Informatics at Hanoi University of Science (2021-2025).
+- 💻 I have experience developing AI-powered applications, such as the Vietnam Petroleum Knowledge Chatbot and AimeNote (a meeting translation & STT tool).
+- ⚙️ I enjoy working on complex backend logic, real-time systems.
+- ⚽ Outside of coding, my interests include football and music.
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack
+* **Backend:** Python (FastAPI), Node.js (Express.js), Java.
+* **Frontend:** TypeScript, JavaScript, ReactJS, NextJS, Redux.
+* **Databases:** PostgreSQL, MySQL, MariaDB, MongoDB, Redis.
+* **DevOps & Deployment:** Docker, Nginx, AWS EC2.
 
+#### 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=manhleodz&show_icons=true&theme=radical&hide_border=true" alt="manhleodz's GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=manhleodz&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</div>
+
+#### 📫 Connect with Me
+- 📧 Email: manhdd.hus@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/manh-doan-duc](https://linkedin.com/in/manh-doan-duc)
