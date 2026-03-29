@@ -7,7 +7,7 @@ Welcome to my GitHub! I am a passionate engineer specializing in Backend Archite
 #### 🚀 About Me
 - 🔭 I’m currently working as a Software Engineer at AimeSoft.
 - 🎓 I studied Mathematics and Informatics at Hanoi University of Science (2021-2025).
-- 💻 I have experience developing AI-powered applications, such as the Vietnam Petroleum Knowledge Chatbot and AimeNote (a meeting translation & STT tool).
+- 💻 I have experience developing AI-powered applications, such as the Vietnam Petroleum Knowledge Chatbot and [AimeNote](https://www.aimesoft.com/aimenote.html) (a meeting translation & STT tool).
 - ⚙️ I enjoy working on complex backend logic, real-time systems.
 - ⚽ Outside of coding, my interests include football and music.
 
