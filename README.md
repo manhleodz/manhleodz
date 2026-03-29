@@ -12,10 +12,10 @@ Welcome to my GitHub! I am a passionate engineer specializing in Backend Archite
 - ⚽ Outside of coding, my interests include football and music.
 
 #### 🛠️ Tech Stack
-* **Backend:** Python (FastAPI), Node.js (Express.js), Java.
-* **Frontend:** TypeScript, JavaScript, ReactJS, NextJS, Redux.
+* **Backend:** Python (FastAPI), Node.js (Express.js), Java (Basic).
+* **Frontend:** TypeScript, JavaScript, ReactJS, NextJS.
 * **Databases:** PostgreSQL, MySQL, MariaDB, MongoDB, Redis.
-* **DevOps & Deployment:** Docker, Nginx, AWS EC2.
+* **DevOps & Deployment:** Docker, Nginx, Gitlab CI/CD.
 
 #### 📊 GitHub Analytics
 <div align="center">
